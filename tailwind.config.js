@@ -2,7 +2,7 @@ module.exports = {
   content: ['./src/**/*.{js,jsx,ts,tsx}'],
   theme: {
     fontFamily: {
-      primary: 'Orbitron, sans-serif',
+      primary: 'Rubik Mono One, sans-serif',
       secondary: 'Inter, sans-serif',
     },
     container: {
