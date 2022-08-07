@@ -18,9 +18,9 @@ const Header = ({ setNavMobile }) => {
       <div className='container mx-auto'>
         <div className='flex items-center justify-between'>
           {/* logo */}
-          <a href='#'>
-            <img className='h-[30px]' src={Logo} alt='' />
-          </a>
+          {/* <a href='#'>
+            <img className='h-[50px]' src={Logo} alt='' />
+          </a> */}
           {/* nav */}
           <Nav />
           {/* nav mobile btn */}
