@@ -61,7 +61,7 @@ const Headsets = () => {
           >
             <img src={Headset3} alt='' />
             <div className='absolute bottom-0 bg-white/20 backdrop-blur-md max-w-[300px] min-h-[150px] p-6'>
-              <h5 className='text-xl mb-2 text-[#fff] text-left'>Compórtate con Honor y dignidad para que te traten bien</h5>
+              <h5 className='text-xl mb-2 text-[#fff] text-left'>Tú eres lo que eliges ser hoy día, no lo que antes eligiste ser</h5>
               {/* <p className='text-[#fff]'>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam
                 aspernatur commodi dolor laborum soluta omnis.
@@ -77,7 +77,7 @@ const Headsets = () => {
           >
             <img src={Headset4} alt='' />
             <div className='absolute bottom-0 bg-white/20 backdrop-blur-md max-w-[300px] min-h-[150px] p-6'>
-              <h5 className='text-xl mb-2 text-[#fff] text-right'>Sé miserable o motívate a tí mismo. Lo que sea que hagas, es siempre tu decisión</h5>
+              <h5 className='text-xl mb-2 text-[#fff] text-right'>Tu propia estima no puede ser verificada por los demás</h5>
               {/* <p className='text-[#fff]'>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam
                 aspernatur commodi dolor laborum soluta omnis.
