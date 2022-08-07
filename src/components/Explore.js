@@ -8,17 +8,17 @@ const Explore = () => {
           <h5
             className='text-3xl font-semibold mb-8'
             data-aos='fade-right'
-            data-aos-offset='500'
+            data-aos-offset='1000'
           >
             Ingresa tu correo para <br/> recibir más información
           </h5>
-          {/* <p
+           <p
             className='max-w-xs mb-12'
             data-aos='fade-right'
             data-aos-offset='1100'
           >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
-          </p> */}
+            Recibe ayuda profesional ingresando tu correo en el siguiente formulario.
+          </p>
           {/* form */}
           <form
             className='flex flex-col w-full space-y-4 gap-x-4 lg:flex-row lg:space-y-0'
