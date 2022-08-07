@@ -29,11 +29,11 @@ const Headsets = () => {
           >
             <img src={Headset1} alt='' />
             <div className='absolute bottom-0 bg-white/20 backdrop-blur-md max-w-[300px] min-h-[150px] p-6'>
-              <h4 className='font-semibold text-xl mb-2 text-[#fff]'>Consejo</h4>
-              <p className='text-[#fff]'>
+              <h5 className='text-xl mb-2 text-[#fff] text-left'>Si tu estadía en la tierra es tan corta, debería ser por lo menos agradable</h5>
+              {/* <p className='text-[#fff]'>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam
                 aspernatur commodi dolor laborum soluta omnis.
-              </p>
+              </p> */}
             </div>
           </div>
           {/* item */}
@@ -45,11 +45,11 @@ const Headsets = () => {
           >
             <img src={Headset2} alt='' />
             <div className='absolute bottom-0 bg-white/20 backdrop-blur-md max-w-[300px] min-h-[150px] p-6'>
-              <h4 className='font-semibold text-xl mb-2 text-[#fff]'>Consejo</h4>
-              <p className='text-[#fff]'>
+              <h5 className='text-xl mb-2 text-[#fff] text-right'>Preocuparte o sentirte mal por un hecho pasado o futuro, equivale a vivir en otro mundo</h5>
+              {/* <p className='text-[#fff]'>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam
                 aspernatur commodi dolor laborum soluta omnis.
-              </p>
+              </p> */}
             </div>
           </div>
           {/* item */}
@@ -61,11 +61,11 @@ const Headsets = () => {
           >
             <img src={Headset3} alt='' />
             <div className='absolute bottom-0 bg-white/20 backdrop-blur-md max-w-[300px] min-h-[150px] p-6'>
-              <h4 className='font-semibold text-xl mb-2 text-[#fff]'>Consejo</h4>
-              <p className='text-[#fff]'>
+              <h5 className='text-xl mb-2 text-[#fff] text-left'>Compórtate con Honor y dignidad para que te traten bien</h5>
+              {/* <p className='text-[#fff]'>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam
                 aspernatur commodi dolor laborum soluta omnis.
-              </p>
+              </p> */}
             </div>
           </div>
           {/* item */}
@@ -77,11 +77,11 @@ const Headsets = () => {
           >
             <img src={Headset4} alt='' />
             <div className='absolute bottom-0 bg-white/20 backdrop-blur-md max-w-[300px] min-h-[150px] p-6'>
-              <h4 className='font-semibold text-xl mb-2 text-[#fff]'>Consejo</h4>
-              <p className='text-[#fff]'>
+              <h5 className='text-xl mb-2 text-[#fff] text-right'>Sé miserable o motívate a tí mismo. Lo que sea que hagas, es siempre tu decisión</h5>
+              {/* <p className='text-[#fff]'>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam
                 aspernatur commodi dolor laborum soluta omnis.
-              </p>
+              </p> */}
             </div>
           </div>
         </div>
