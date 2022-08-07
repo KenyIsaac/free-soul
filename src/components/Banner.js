@@ -35,7 +35,7 @@ const Banner = () => {
             >
               <button className='btn'>Comenzar ahora</button>
               <a
-                className='border-b-2 border-transparent hover:border-white transition ease-out'
+                className='border-b-2 border-transparent hover:border-[#e3b0f6] transition ease-out'
                 href='#'
               >
                 Seguir explorando

@@ -2,48 +2,63 @@
 import Avatar1 from '../src/assets/img/avt1.png';
 import Avatar2 from '../src/assets/img/avt2.png';
 import Avatar3 from '../src/assets/img/avt3.png';
+import Avatar4 from '../src/assets/img/avt4.png';
 
 export const slider = [
   {
     message:
-      'I know in real-time where the money is spent,and I don’t have to lend out the company’s credit card anymore. What a relief!',
+      'En Free Soul tuve la oportunidad de explorar mis emociones de manera acertada con cada consejo que me brindaban. Me sentí muy identificada.',
     image: Avatar1,
-    name: 'Laurie Howell',
-    email: 'la.howell@gmail.com',
+    name: 'Ximera Velandia',
+    email: 'xime.vel@gmail.com',
   },
   {
     message:
-      'VISUALS are much better. The improvements in optics and resolution and much more than a modern console generation leap.',
+      'Free Soul me permitió sanar mis procesos personales con sus excelentes consejos y manera de narrar cada uno de sus consejos. Estoy muy agradecida.',
     image: Avatar2,
-    name: 'Christie Ernser',
-    email: 'chr.ernser@gmail.com',
+    name: 'Danna Núñez',
+    email: 'dan_nuz@gmail.com',
   },
   {
     message:
-      'I can actually see the improvement in the graphics, not having the external sensors is a big plus.',
+      'En una sociedad en donde es mal visto que el hombre pida ayuda, Free Soul me ayudo con su equipo profesional. Estoy agradecido.',
+     image: Avatar4,
+    name: 'Darwin Gutiérrez',
+    email: 'darwing@gmail.com',
+  },
+  {
+    message:
+    'En esta página pude encontrar consejos para ayudar a una amiga. Gracias.',
     image: Avatar3,
     name: 'Frankie Collins',
-    email: 'frank.collins@gmail.com',
+    email: 'frk.col@gmail.com',
   },
   {
     message:
-      'I know in real-time where the money is spent,and I don’t have to lend out the company’s credit card anymore. What a relief!',
+      'Unos consejos certeros que me permitieron analizar todo mi entorno. Espero seguir aprendiendo de ustedes.',
     image: Avatar1,
-    name: 'Laurie Howell',
-    email: 'la.howell@gmail.com',
+    name: 'Helena Perez',
+    email: 'hlntpr@gmail.com',
   },
   {
     message:
-      'VISUALS are much better. The improvements in optics and resolution and much more than a modern console generation leap.',
+      'Se me hizo entretenido de leer y esto me permitió hacer una instrosprección profunda de mí para saber en qué estaba fallando. Quedo contenta.',
     image: Avatar2,
-    name: 'Christie Ernser',
-    email: 'chr.ernser@gmail.com',
+    name: 'Christina Poe',
+    email: 'chrspoe@gmail.com',
   },
   {
     message:
-      'I can actually see the improvement in the graphics, not having the external sensors is a big plus.',
+      'Es un plus poder hablar con un experto que te escuche atentamente y te dé unos consejos adecuados para la situación por la que estás pasando',
     image: Avatar3,
-    name: 'Frankie Collins',
-    email: 'frank.collins@gmail.com',
+    name: 'Ana Carrillo',
+    email: 'anadel23@gmail.com',
   },
+  {
+    message:
+      'Estoy extremadamente agradecido con la ayuda que me brindaron, no tengo palabras.',
+    image: Avatar4,
+    name: 'Pedro Pérez',
+    email: 'pdlmbnt@gmail.com',
+  }
 ];

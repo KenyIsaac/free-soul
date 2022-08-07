@@ -10,11 +10,11 @@ import { BsPlayCircleFill } from 'react-icons/bs';
 const Video = () => {
   const [isOpen, setIsOpen] = useState(false);
   return (
-    <div className='bg-[#534686]/30 py-6'>
+    <div className='bg-gradient-to-r from-[#e3b0f6] to-[#a5edbb]/30 py-6'>
       <div className='container mx-auto'>
         <div className='flex flex-col justify-center items-center text-center lg:flex-row lg:justify-between'>
           <h3
-            className='text-2xl font-semibold mb-8 lg:mb-0'
+            className='text-2xl font-semibold mb-8 lg:mb-0 text-[white]'
             data-aos='fade-right'
             data-aos-offset='350'
           >
