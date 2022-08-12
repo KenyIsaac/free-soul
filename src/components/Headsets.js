@@ -5,6 +5,10 @@ import Headset1 from '../assets/img/headset-1.png';
 import Headset2 from '../assets/img/headset-2.png';
 import Headset3 from '../assets/img/headset-3.png';
 import Headset4 from '../assets/img/headset-4.png';
+import Headset5 from '../assets/img/headset-5.png';
+import Headset6 from '../assets/img/headset-6.png';
+import Headset7 from '../assets/img/headset-7.png';
+import Headset8 from '../assets/img/headset-8.png';
 
 const Headsets = () => {
   return (
@@ -27,14 +31,7 @@ const Headsets = () => {
             data-aos-offset='300'
             data-aos-delay='1000'
           >
-            <img src={Headset1} alt='' />
-            <div className='absolute bottom-0 bg-white/20 backdrop-blur-md max-w-[300px] min-h-[150px] p-6'>
-              <h5 className='text-xl mb-2 text-[#fff] text-left'>Si tu estadía en la tierra es tan corta, debería ser por lo menos agradable</h5>
-              {/* <p className='text-[#fff]'>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam
-                aspernatur commodi dolor laborum soluta omnis.
-              </p> */}
-            </div>
+            <img src={Headset1} alt='Headset1' />
           </div>
           {/* item */}
           <div
@@ -43,14 +40,8 @@ const Headsets = () => {
             data-aos-offset='300'
             data-aos-delay='1300'
           >
-            <img src={Headset2} alt='' />
-            <div className='absolute bottom-0 bg-white/20 backdrop-blur-md max-w-[300px] min-h-[150px] p-6'>
-              <h5 className='text-xl mb-2 text-[#fff] text-right'>Preocuparte o sentirte mal por un hecho pasado o futuro, equivale a vivir en otro mundo</h5>
-              {/* <p className='text-[#fff]'>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam
-                aspernatur commodi dolor laborum soluta omnis.
-              </p> */}
-            </div>
+            <img src={Headset2} alt='Headset2' />
+            
           </div>
           {/* item */}
           <div
@@ -59,14 +50,8 @@ const Headsets = () => {
             data-aos-offset='300'
             data-aos-delay='1600'
           >
-            <img src={Headset3} alt='' />
-            <div className='absolute bottom-0 bg-white/20 backdrop-blur-md max-w-[300px] min-h-[150px] p-6'>
-              <h5 className='text-xl mb-2 text-[#fff] text-left'>Tú eres lo que eliges ser hoy día, no lo que antes eligiste ser</h5>
-              {/* <p className='text-[#fff]'>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam
-                aspernatur commodi dolor laborum soluta omnis.
-              </p> */}
-            </div>
+            <img src={Headset3} alt='Headset3' />
+            
           </div>
           {/* item */}
           <div
@@ -75,14 +60,39 @@ const Headsets = () => {
             data-aos-offset='300'
             data-aos-delay='1900'
           >
-            <img src={Headset4} alt='' />
-            <div className='absolute bottom-0 bg-white/20 backdrop-blur-md max-w-[300px] min-h-[150px] p-6'>
-              <h5 className='text-xl mb-2 text-[#fff] text-right'>Tu propia estima no puede ser verificada por los demás</h5>
-              {/* <p className='text-[#fff]'>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam
-                aspernatur commodi dolor laborum soluta omnis.
-              </p> */}
-            </div>
+            <img src={Headset4} alt='Headset4' />
+          </div>
+          <div
+            className='relative'
+            data-aos='zoom-in'
+            data-aos-offset='300'
+            data-aos-delay='1900'
+          >
+            <img src={Headset5} alt='Headset5' />
+          </div>
+          <div
+            className='relative'
+            data-aos='zoom-in'
+            data-aos-offset='300'
+            data-aos-delay='1900'
+          >
+            <img src={Headset6} alt='Headset6' />
+          </div>
+          <div
+            className='relative'
+            data-aos='zoom-in'
+            data-aos-offset='300'
+            data-aos-delay='1900'
+          >
+            <img src={Headset7} alt='Headset7' />
+          </div>
+          <div
+            className='relative'
+            data-aos='zoom-in'
+            data-aos-offset='300'
+            data-aos-delay='1900'
+          >
+            <img src={Headset8} alt='Headset8' />
           </div>
         </div>
       </div>

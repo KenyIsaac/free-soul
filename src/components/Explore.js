@@ -17,10 +17,16 @@ const Explore = () => {
             data-aos='fade-right'
             data-aos-offset='1100'
           >
-            Recibe ayuda profesional ingresando tu correo en el siguiente formulario.
+            Recibe ayuda profesional contactando a nuestra profesional <a href="wa.me/573102415425" target="_blank">Shirley Niño</a>.
+          </p>
+          <p  
+            className='max-w-xs mb-12'
+            data-aos='fade-right'
+            data-aos-offset='1100'>
+            <a href="wa.me/573102415425" target="_blank">(310) 241-5425</a>
           </p>
           {/* form */}
-          <form
+          {/* <form
             className='flex flex-col w-full space-y-4 gap-x-4 lg:flex-row lg:space-y-0'
             data-aos='fade-up'
             data-aos-offset='200'
@@ -31,7 +37,7 @@ const Explore = () => {
               placeholder='Ingrese su correo'
             />
             <button className='btn'>Comenzar</button>
-          </form>
+          </form> */}
         </div>
       </div>
     </section>

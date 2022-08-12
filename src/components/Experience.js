@@ -35,7 +35,7 @@ const Experience = () => {
               En <b>Free Soul</b> contamos con <b>consejos ideales</b> que te ayudarán a profundizar sobre tu propia <b>situación actual</b>, los cuales te permitirán hacer una instrospección profunda y detalla de tu propio entorno y tu manera de pensar.<br/>
               Además nuestro <b>grupo experto</b> de profesionales, te ayudarán con <b>charlas personalizadas</b> y te guiarán a travéz de <b>consultas online</b> en el horario de tu comodidad.
             </p>
-            <button className='btn'>Seguir explorando</button>
+            <a className='btn' href="wa.me/573102415425" target="_blank">Seguir explorando</a>
           </div>
         </div>
       </div>

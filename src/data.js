@@ -9,22 +9,22 @@ export const slider = [
     message:
       'En Free Soul tuve la oportunidad de explorar mis emociones de manera acertada con cada consejo que me brindaban. Me sentí muy identificada.',
     image: Avatar1,
-    name: 'Ximera Velandia',
-    email: 'xime.vel@gmail.com',
+    name: 'Patricia Díaz',
+    email: 'pat.zai@gmail.com',
   },
   {
     message:
       'Free Soul me permitió sanar mis procesos personales con sus excelentes consejos y manera de narrar cada uno de sus consejos. Estoy muy agradecida.',
     image: Avatar2,
-    name: 'Danna Núñez',
-    email: 'dan_nuz@gmail.com',
+    name: 'Veronica Robledo',
+    email: 'roblep@gmail.com',
   },
   {
     message:
       'En una sociedad en donde es mal visto que el hombre pida ayuda, Free Soul me ayudo con su equipo profesional. Estoy agradecido.',
      image: Avatar4,
-    name: 'Darwin Gutiérrez',
-    email: 'darwing@gmail.com',
+    name: 'Erduin Perez',
+    email: 'erdpz@gmail.com',
   },
   {
     message:
